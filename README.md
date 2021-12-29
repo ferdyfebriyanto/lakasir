@@ -57,3 +57,4 @@ Support Lakasir to becoming a sponsor on [Github](https://github.com/lakasir), Y
 
 ## License
 Lakasir is licensed under [MIT License](https://github.com/lakasir/lakasir/blob/master/LICENSE) which means it's completely free.
+# lakasir-laravel
